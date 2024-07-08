@@ -25,5 +25,5 @@ public class Account {
 
     private String number;
 
-    private BigDecimal balance;
+    private BigDecimal balance;//not lose numeric inside the db
 }
